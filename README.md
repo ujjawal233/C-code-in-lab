@@ -24,3 +24,24 @@ All codes are **well-structured, easy to understand**, and useful for **exams & 
 ---
 
 ## 📂 Folder Structure
+```
+
+Lab-Codes/ │
+├── C-Language/ 
+│   
+├── palindrome.c │  
+├── factorial.c │ 
+├── DSA/ 
+│   
+├── array_traversal.cpp 
+│   
+├── stack_using_array.cpp 
+│ 
+├── Python/
+│   
+├── fibonacci.py 
+│   
+├── file_handling.py
+│ 
+└── README.md
+```
