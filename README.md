@@ -45,3 +45,13 @@ Lab-Codes/ │
 │ 
 └── README.md
 ```
+---
+
+## 😎 EXTRA COOLNESS (Optional)
+Add this at top for style 👇
+
+```md
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C%20%7C%20C++%20%7C%20Python-blue">
+  <img src="https://img.shields.io/badge/Status-Lab%20Ready-success">
+</p>
